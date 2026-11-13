@@ -9,7 +9,7 @@
 
 This project focuses on **Exploratory Data Analysis (EDA) and Business Insights Generation** using marketing campaign data.
 
-Developed as part of my **Data Analytics Internship at SkillCraft Technology**, the project aims to analyze marketing campaign performance, identify meaningful trends, evaluate important business metrics, and generate actionable recommendations to support data-driven marketing decisions.
+Developed as part of my **Internship at SkillCraft Technology**, the project aims to analyze marketing campaign performance, identify meaningful trends, evaluate important business metrics, and generate actionable recommendations to support data-driven marketing decisions.
 
 The analysis transforms raw marketing data into meaningful business insights that can help organizations understand campaign effectiveness, improve marketing strategies, and optimize resource allocation.
 
